@@ -262,7 +262,13 @@ nav ul li a:hover{
     margin-left: 100px;
 }
 @media only screen and (max-width: 1020px) {
-
+     .menuimg{
+        display: block;
+        width: 70px;
+    }
+    .header1 div p b{
+        font-size: 25px;
+    }
     .menuimg{
         display: block;
     }
